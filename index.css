@@ -1,0 +1,20 @@
+.btn-a{
+    color: fff;
+    font-size: 10px;
+    
+    text-decoration: none;
+    background-color: blueviolet;
+    padding: 10px;
+
+}
+.btn-a:hover{
+    background-color: rgb(112, 25, 194);
+}
+.cuadrado{
+    width: 200px;
+    height: 200px;
+    background: #fff;
+    margin-bottom: 20px;
+    display: inline-block;
+
+}
